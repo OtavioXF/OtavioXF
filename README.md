@@ -16,30 +16,18 @@
 
 ---
 
-## 🕷 Dev Loading...
+## 🕷 Dev Back-And
 
-``
-const otavio = {
-  name: "Otavio",
-  username: "OtavioXF",
-  style: "dark",
-  focus: ["Frontend", "Backend", "Automation"],
-  learning: ["JavaScript", "Python", "Java", "SQL", "Git", "GitHub"],
-  vibe: "night + music + code"
-}
-
-🌙 About Me
 <img align="right" alt="coding gif" width="210" src="./PG.gif"/>
 
-🦇 Perfil com estética dark e visual marcante
+🦇 Aspiring programmer
 
-💻 Estudando e evoluindo em desenvolvimento web
+💻 Studying programming at Senac
 
-⚡ Curto criar projetos criativos e funcionais
+⚡ I enjoy building projects and solving problems
 
-🚀 Sempre buscando melhorar a cada commit
+🚀 Always learning and improving
 
-🎧 Código, foco e night vibes
 
 <br clear="right"/>
 ⚙️ Tech Stack
