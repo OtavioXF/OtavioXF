@@ -18,17 +18,6 @@
 
 ## 🕷 Dev Loading...
 
-```js
-const otavio = {
-  name: "Otavio",
-  username: "OtavioXF",
-  style: "dark",
-  focus: ["Frontend", "Backend", "Automation"],
-  learning: ["JavaScript", "Python", "Git", "GitHub"],
-  vibe: "night + music + code"
-}
-
-
 🌙 About Me
 <img align="right" alt="coding gif" width="290" src="./PG.gif"/>
 
