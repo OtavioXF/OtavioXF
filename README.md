@@ -60,4 +60,4 @@
 ## 🌐 Connect
 
 <p align="center"> <a href="https://github.com/OtavioXF"> <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="mailto:otaviog530@gmail.com"> <img src="https://img.shields.io/badge/Gmail-240046?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:10002b,50:240046,100:7b2cbf&section=footer" /> </p> <p align="center"> <b></b> </p> ``
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:10002b,50:240046,100:7b2cbf&section=footer" /> </p> <p align="center"> <b></b> </p>
