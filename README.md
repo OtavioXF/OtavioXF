@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="./PC.gif" width="430" alt="main dark gif" />
+  <img src="./PC.gif" width="520" alt="main dark gif" />
 </p>
 
 <p align="center">
