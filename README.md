@@ -30,7 +30,9 @@
 
 
 <br clear="right"/>
+
 ## ⚙️ Tech Skills
+
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,vscode,mysql&theme=dark" /> </p> <p align="center"> <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26" /><img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=csswizardry&logoColor=1572B6" /> <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" /> <img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=coffeescript&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1" /> </p>
 
 ## 🛠 Tools
