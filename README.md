@@ -49,7 +49,13 @@
 
 ## ✨ Profile Details
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=OtavioXF&label=Profile%20Views&color=6f42c1&style=for-the-badge" alt="profile views" /> </p> <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=OtavioXF&label=Profile%20Views&color=6f42c1&style=for-the-badge" alt="profile views" />
+</p>
+
+<p align="center">
+  <img src="./Frase.png" width="700" alt="frase final" />
+</p>
 
 ## 🌐 Connect
 
