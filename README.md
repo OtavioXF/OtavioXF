@@ -1,4 +1,4 @@
-<h1 align="center">𖣂 OtavioXF ☕︎</h1>
+<h1 align="center">𖣂 OtavioXF </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1100&color=8A2BE2&center=true&vCenter=true&width=900&lines=16-year-old+focused+on+back-end+and+front-end;I+enjoy+studying+code+and+solving+problems;I+build+projects+for+fun" alt="Typing SVG" />
