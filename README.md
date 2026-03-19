@@ -16,14 +16,6 @@
 
 ---
 
-## 🕷 Dev Loading...
+## 🕷 Dev 
 
-```js
-const otavio = {
-  name: "Otavio",
-  username: "OtavioXF",
-  style: "dark",
-  focus: ["Frontend", "Backend", "Automation"],
-  learning: ["JavaScript", "Python", "Git", "GitHub"],
-  vibe: "night + music + code"
-}
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OtavioXF&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c77dff&icon_color=8a2be2&text_color=c9d1d9&rank_icon=github" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioXF&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c77dff&text_color=c9d1d9" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=OtavioXF&theme=midnight-purple&hide_border=true&background=0D1117&ring=8A2BE2&fire=8A2BE2&currStreakLabel=C77DFF" /> </p>
